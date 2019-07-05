@@ -1,0 +1,8 @@
+com\stat\bradip\brick\counter\service\CustomerResourceService.class
+com\stat\bradip\brick\counter\service\CounterDifferenceService.class
+com\stat\bradip\brick\counter\feign\CustomerResourceFeign.class
+com\stat\bradip\brick\counter\Application.class
+com\stat\bradip\brick\counter\service\CounterResourceService.class
+com\stat\bradip\brick\counter\controller\CustomerResourceController.class
+com\stat\bradip\brick\counter\feign\CounterResourceFeign.class
+com\stat\bradip\brick\counter\controller\CounterResourceController.class
