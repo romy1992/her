@@ -14,7 +14,6 @@
 
 <modules>
 		<module>com.stat.bradip.brick.counter</module>
-		<module>com.stat.bradip.brick.customer</module>
 		<module>com.stat.bradip.commons.counter</module>
 		<module>com.stat.bradip.commons.customer</module>
 		<module>com.stat.bradip.resource.counter</module>
