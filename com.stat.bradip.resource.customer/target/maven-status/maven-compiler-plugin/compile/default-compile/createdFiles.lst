@@ -1,0 +1,11 @@
+com\stat\bradip\resource\management\MappingMapStruct.class
+com\stat\bradip\resource\management\MappingMapStructImpl.class
+com\stat\bradip\resource\repository\CustomerRepository.class
+com\stat\bradip\resource\controller\CustomerController.class
+com\stat\bradip\resource\entity\Customer.class
+com\stat\bradip\resource\entity\StringSubject.class
+com\stat\bradip\resource\Application.class
+com\stat\bradip\resource\controller\ProfilProjectController.class
+com\stat\bradip\resource\repository\FileXmlRepository.class
+com\stat\bradip\resource\entity\DateFile.class
+com\stat\bradip\resource\entity\FaceFile.class

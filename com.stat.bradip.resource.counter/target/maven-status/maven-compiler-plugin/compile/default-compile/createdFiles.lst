@@ -1,0 +1,15 @@
+com\stat\bradip\resource\counter\controller\DifferenceController.class
+com\stat\bradip\resource\counter\entity\SessionMonthCounter.class
+com\stat\bradip\resource\counter\repository\CounterRepository.class
+com\stat\bradip\resource\counter\Application.class
+com\stat\bradip\resource\counter\management\MappingMappStruct.class
+com\stat\bradip\resource\counter\controller\CounterController.class
+com\stat\bradip\resource\counter\entity\CounterDatFileMonth.class
+com\stat\bradip\resource\counter\controller\CounterYearController.class
+com\stat\bradip\resource\counter\entity\SpecificDifference.class
+com\stat\bradip\resource\counter\entity\Counter.class
+com\stat\bradip\resource\counter\repository\DifferenceRepository.class
+com\stat\bradip\resource\counter\entity\DifferenceCounter.class
+com\stat\bradip\resource\counter\repository\CounterYearRepository.class
+com\stat\bradip\resource\counter\entity\CounterYear.class
+com\stat\bradip\resource\counter\management\MappingMappStructImpl.class
