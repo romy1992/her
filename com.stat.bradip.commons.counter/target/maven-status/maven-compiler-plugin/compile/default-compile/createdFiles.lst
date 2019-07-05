@@ -1,0 +1,6 @@
+com\stat\bradip\commons\counter\model\CounterYearModel.class
+com\stat\bradip\commons\counter\model\DifferenceCounterModel.class
+com\stat\bradip\commons\counter\model\SessionMonthCounterModel.class
+com\stat\bradip\commons\counter\model\CounterDatFileMonthModel.class
+com\stat\bradip\commons\counter\model\CounterModel.class
+com\stat\bradip\commons\counter\model\SpecificDifferenceModel.class

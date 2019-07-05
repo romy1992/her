@@ -1,0 +1,5 @@
+com\stat\bradip\commons\model\CustomerModel.class
+com\stat\bradip\commons\model\StringSubjectModel.class
+com\stat\bradip\commons\model\DateFileModel.class
+com\stat\bradip\commons\model\FaceFileModel.class
+com\stat\bradip\commons\errors\Rule.class
