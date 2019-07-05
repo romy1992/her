@@ -1,0 +1,24 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com-stat-bradip</groupId>
+  <artifactId>parent</artifactId>
+  <version>1</version>
+  <packaging>pom</packaging>
+
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+
+<modules>
+		<module>com.stat.bradip.brick.counter</module>
+		<module>com.stat.bradip.brick.customer</module>
+		<module>com.stat.bradip.commons.counter</module>
+		<module>com.stat.bradip.commons.customer</module>
+		<module>com.stat.bradip.resource.counter</module>
+		<module>com.stat.bradip.resource.customer</module>
+</modules>
+
+</project>
